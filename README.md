@@ -1,2 +1,2 @@
-# eda_practice-one-
+# eda_practice-one
 This is a exploratory data analysis.
